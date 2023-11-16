@@ -15,7 +15,7 @@
 
 **Student** &#12299;_IT sector_
 <br/>
-_Nothing else I guess ¯⁠\⁠_⁠(⁠&#12484;)⁠_⁠/⁠¯_
+_Nothing else I guess ¯⁠\⁠_⁠(⁠&#12484; )⁠_⁠/⁠¯_
 
 ----
 
