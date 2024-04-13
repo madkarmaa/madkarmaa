@@ -13,7 +13,7 @@
 ![tools](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat-square)
 ![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=VSCode&color=36465D&logoColor=AAA&style=flat-square)
 ![vs](https://img.shields.io/static/v1?logo=visualstudio&label=&message=VS&color=36465D&logoColor=AAA&style=flat-square)
-![intellij](https://img.shields.io/static/v1?logo=intellijidea&label=&message=IntelliJ&color=36465D&logoColor=AAA&style=flat-square)
+![intellijidea](https://img.shields.io/static/v1?logo=intellijidea&label=&message=IntelliJ%20Idea&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 
 **Student** &#12299;_IT sector_
