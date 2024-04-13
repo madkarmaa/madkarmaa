@@ -7,7 +7,8 @@
 ![nodejs](https://img.shields.io/static/v1?logo=nodedotjs&label=&message=NodeJS&color=36465D&logoColor=AAA&style=flat-square)
 ![html](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=36465D&logoColor=AAA&style=flat-square)
 ![css](https://img.shields.io/static/v1?logo=css3&label=&message=CSS&color=36465D&logoColor=AAA&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square&link=)
+![java](https://img.shields.io/static/v1?logo=java&label=&message=Java&color=36465D&logoColor=AAA&style=flat-square)
+![csharp](https://img.shields.io/static/v1?logo=csharp&label=&message=C%23&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat-square)
 ![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=VSCode&color=36465D&logoColor=AAA&style=flat-square)
