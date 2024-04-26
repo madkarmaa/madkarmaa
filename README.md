@@ -1,4 +1,4 @@
-### Hi, I'm MadKarma! &nbsp;&nbsp;<sup>👾 &#12299;I like automating stuff, who doesn't?</sup>
+### Hi, I'm MadKarma! &nbsp;&nbsp;<sup>👾 &#12299;I like automating stuff</sup>
 
 ----
 
@@ -14,7 +14,7 @@
 ![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=VSCode&color=36465D&logoColor=AAA&style=flat-square)
 ![vs](https://img.shields.io/static/v1?logo=visualstudio&label=&message=VS&color=36465D&logoColor=AAA&style=flat-square)
 ![intellijidea](https://img.shields.io/static/v1?logo=intellijidea&label=&message=IntelliJ%20Idea&color=36465D&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
 
 **Student** &#12299;_IT sector_
 <br/>
@@ -28,5 +28,3 @@ _Nothing else I guess ¯⁠\⁠_⁠(⁠&#12484;)⁠_⁠/⁠¯_
 <a href="https://www.reddit.com/user/madkarma_/">
   <img align="left" alt="MadKarma's Reddit" width="20px" src="https://simpleicons.now.sh/reddit/495f7e" />
 </a>
-
-| &nbsp;&nbsp;&nbsp; Website : <sup>under construction</sup> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Projects &nbsp;&#9829;
