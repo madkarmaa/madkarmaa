@@ -1,5 +1,5 @@
 ```bash
-curl -L madkarma.top
+curl madkarma.top
 ```
 or, for PowerShell users
 ```powershell
