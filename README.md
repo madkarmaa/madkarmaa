@@ -1,3 +1,3 @@
-```sh
-curl -fsSL madkarma.top
+```bash
+curl -L madkarma.top
 ```
